@@ -2,7 +2,7 @@
     text-align: center;
 }
 .container {
-margin: 50px auto
+margin: 50px auto;
 }
 
 .box1 {
@@ -10,7 +10,9 @@ margin: 50px auto
     height: 60px;
     margin-left: 150px;
     margin-right: 150px;
-    background: rgb(245, 228, 228);
+    background: #EEEEEE;
+    
+   
 }
 
 .box2{
@@ -55,23 +57,45 @@ margin: 50px auto
     display: flex;
     margin-left: 150px;
     margin-right: 150px;
+    margin-top: 3px;
+    
+
   }
   .altbox {
     flex: 1;
+    
   
   }
   .altbox1 {
-    background-color:bisque;
-    margin-right: 2px;
-    margin-top: 2px;
+    background-color:#7EE5DA;
+   margin-right: 2px;
+   padding: 12px;
+    
     
   }
+
   .altbox2 {
-    background-color: aqua;
-    margin-top: 2px;
+    background-color: #70CCC2;
+   margin-right: 2px;
+   display: inline;
+   justify-content: center;
+   text-align: center;
+   font-size: 15px;
+   padding-top: 5px;
+  
+  
   }
   .altbox3 {
-    background-color:aquamarine;
-    margin-left: 2px;
-    margin-top: 2px;
+    background-color:#62B3AA;
+  }
+
+  .btn{
+    margin-right: 10px;
+  }
+  .archive{
+    font-size: 15px;
+  }
+
+  .footer{
+    margin-top: 30px;
   }

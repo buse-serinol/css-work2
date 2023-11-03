@@ -1,2 +1,2 @@
-# css-work2
-css ödevi
+# Google 1998 görünümü
+## HTML - CSS kullanılarak tasarlandı.
